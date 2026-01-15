@@ -1,0 +1,149 @@
+													PROJECT REPORT – 4
+									Automated Banking Management System Using Agile Methodology
+									
+1. Introduction
+
+The Automated Banking Management System is a software application designed to perform and manage banking operations digitally. The system 
+reduces manual work, increases transaction speed, and improves accuracy by automating core banking activities such as account management, fund transfers, and transaction tracking.
+
+This project is developed using the Agile Methodology, enabling continuous enhancement, adaptability, and reliable delivery of banking 
+services.
+
+
+2. Problem Statement
+
+Traditional banking systems rely heavily on manual processes, which can lead to delays, errors, and security issues. Customers often face 
+long waiting times for basic services. There is a need for an automated system that provides secure, fast, and reliable banking operations.
+
+
+3. Objectives of the Project
+
+To automate daily banking operations
+
+To reduce manual paperwork
+
+To ensure secure financial transactions
+
+To improve customer convenience
+
+To maintain accurate transaction records
+
+
+4. Scope of the Project
+
+The system supports customer account management, balance inquiry, fund transfers, transaction history, and basic loan services. Administrators 
+can monitor transactions and manage customer accounts.
+
+
+5. Agile Methodology
+
+Agile methodology focuses on iterative development and continuous feedback. The system is developed in multiple sprints, with each sprint 
+delivering a usable banking feature.
+
+Agile Practices Followed
+
+Incremental development
+
+Continuous testing
+
+Regular stakeholder feedback
+
+Adaptive planning
+
+
+6. Agile Development Process
+Sprint 1
+
+Requirement analysis
+
+Customer account creation
+
+User authentication
+
+Sprint 2
+
+Balance inquiry
+
+Transaction history module
+
+Sprint 3
+
+Fund transfer module
+
+Basic loan management
+
+Sprint 4
+
+Admin controls
+
+Security checks
+
+System testing
+
+
+7. Functional Requirements
+
+Customer registration and login
+
+Account management
+
+Balance inquiry
+
+Fund transfer between accounts
+
+Transaction history viewing
+
+
+8. Non-Functional Requirements
+
+High security and data confidentiality
+
+High system reliability
+
+Fast transaction processing
+
+Scalability for future growth
+
+
+9. System Architecture (High-Level)
+
+User Interface Layer
+
+Business Logic Layer
+
+Database Layer
+
+
+10. Advantages of the System
+
+Faster banking operations
+
+Reduced human errors
+
+Secure transaction handling
+
+Improved customer satisfaction
+
+
+11. Limitations
+
+Requires internet connectivity
+
+Limited advanced banking features in initial version
+
+
+12. Future Enhancements
+
+Mobile banking support
+
+Advanced fraud detection
+
+Integration with external financial services
+
+Multi-language support
+
+
+13. Conclusion
+
+The Automated Banking Management System developed using Agile methodology provides a secure, efficient, and reliable solution for modern 
+banking needs. Agile practices ensured flexibility, improved quality, and timely delivery of the system.
