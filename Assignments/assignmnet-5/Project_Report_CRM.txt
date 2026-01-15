@@ -1,0 +1,140 @@
+												PROJECT REPORT – 1
+Customer Relationship Management (CRM) System Using Agile Methodology
+
+1. Introduction
+
+Customer Relationship Management (CRM) is a software system designed to help organizations manage customer data, interactions, sales activities, and support services in an organized and efficient manner. The main purpose of this project is to develop a CRM system that improves customer satisfaction, enhances communication, and increases business productivity.
+
+This project follows the Agile Methodology, which emphasizes iterative development, customer feedback, and continuous improvement throughout the software development lifecycle.
+
+
+2. Problem Statement
+
+Many organizations struggle to manage customer information using manual methods or disconnected tools, leading to data inconsistency, poor customer follow-up, and inefficient sales processes. There is a need for a centralized system that can manage customer details, track interactions, and generate meaningful reports.
+
+
+3. Objectives of the Project
+
+To store and manage customer information in a centralized system
+
+To track customer interactions and communication history
+
+To manage leads and sales activities effectively
+
+To improve customer satisfaction and retention
+
+To generate reports for business analysis
+
+
+4. Scope of the Project
+
+The CRM system is designed for small to medium-sized organizations. It allows users to manage customer profiles, assign leads, schedule follow-ups, and view performance reports. The system supports role-based access for administrators and employees.
+
+
+5. Agile Methodology
+
+Agile methodology is an iterative and incremental approach to software development. The project is divided into small development cycles called sprints, where each sprint delivers a functional module.
+
+Agile Principles Used
+
+Customer collaboration over contract negotiation
+
+Responding to change over following a fixed plan
+
+Continuous delivery of working software
+
+Regular feedback and improvement
+
+
+6. Agile Development Process
+Sprint 1
+
+Requirement gathering
+
+User story creation
+
+Customer registration and profile module
+
+Sprint 2
+
+Lead management module
+
+Interaction tracking
+
+Sprint 3
+
+Task and follow-up management
+
+Role-based access
+
+Sprint 4
+
+Reporting and analytics
+
+Testing and refinement
+
+
+7. Functional Requirements
+
+User registration and login
+
+Add, update, and delete customer details
+
+Track customer interactions
+
+Assign and manage leads
+
+Generate reports
+
+
+8. Non-Functional Requirements
+
+System should be user-friendly
+
+Data should be secure
+
+High reliability and availability
+
+Scalable for future expansion
+
+
+9. System Architecture (High-Level)
+
+User Interface Layer
+
+Application Logic Layer
+
+Data Storage Layer
+
+
+10. Advantages of the System
+
+Centralized customer data
+
+Improved communication
+
+Better decision-making through reports
+
+Increased productivity
+
+
+11. Limitations
+
+Requires internet connectivity
+
+Initial user training may be required
+
+
+12. Future Enhancements
+
+Integration with email and messaging services
+
+Advanced analytics and dashboards
+
+Mobile-friendly interface
+
+
+13. Conclusion
+
+The Customer Relationship Management System developed using Agile methodology provides a flexible, scalable, and efficient solution 
+for managing customer relationships. Agile practices ensured continuous improvement, faster delivery, and alignment with business needs.
