@@ -1,0 +1,148 @@
+													PROJECT REPORT – 3
+										Online Commerce Website Using Agile Methodology
+										
+1. Introduction
+
+An Online Commerce Website is a software system that allows users to buy and sell products over the internet. The system provides features 
+such as product browsing, order placement, online payment, and order tracking. This project focuses on developing an online commerce platform 
+using the Agile Methodology to ensure flexibility, scalability, and continuous improvement.
+
+
+2. Problem Statement
+
+Traditional shopping methods require physical visits to stores, which can be time-consuming and inconvenient. Existing online platforms may
+ lack flexibility or user-friendly interfaces. There is a need for a reliable and efficient online commerce system that provides a smooth 
+ shopping experience and supports business growth.
+
+
+3. Objectives of the Project
+
+To provide an online platform for buying and selling products
+
+To enable easy product search and browsing
+
+To support secure order placement and payments
+
+To manage inventory and orders efficiently
+
+To enhance customer satisfaction
+
+
+4. Scope of the Project
+
+The system supports user registration, product listing, shopping cart management, order processing, and order tracking. Administrators can 
+manage products, categories, and orders through the system.
+
+
+5. Agile Methodology
+
+Agile methodology divides the project into short development cycles called sprints. Each sprint delivers a functional feature, allowing 
+continuous feedback and improvement.
+
+Agile Principles Applied
+
+Incremental delivery
+
+Customer feedback
+
+Adaptive planning
+
+Continuous testing
+
+
+6. Agile Development Process
+Sprint 1
+
+Requirement analysis
+
+User registration and login
+
+Product catalog module
+
+Sprint 2
+
+Product search and filtering
+
+Shopping cart management
+
+Sprint 3
+
+Order placement and payment handling
+
+Order confirmation
+
+Sprint 4
+
+Order tracking
+
+Admin management
+
+System testing
+
+
+7. Functional Requirements
+
+User registration and authentication
+
+Browse and search products
+
+Add products to cart
+
+Place and track orders
+
+Admin product and order management
+
+
+8. Non-Functional Requirements
+
+High performance and scalability
+
+Secure transactions
+
+Easy-to-use interface
+
+High system availability
+
+
+9. System Architecture (High-Level)
+
+User Interface Layer
+
+Application Processing Layer
+
+Data Storage Layer
+
+
+10. Advantages of the System
+
+24/7 shopping availability
+
+Wider customer reach
+
+Reduced operational costs
+
+Improved order management
+
+
+11. Limitations
+
+Requires stable internet connection
+
+Limited customization in initial version
+
+
+12. Future Enhancements
+
+Recommendation system
+
+Mobile application support
+
+Advanced analytics
+
+Multiple payment options
+
+
+13. Conclusion
+
+The Online Commerce Website developed using Agile methodology provides a flexible and efficient platform for online shopping. The Agile 
+approach ensured faster development, better quality, and adaptability to changing business requirements.
