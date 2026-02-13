@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-13T10:51:01 IST" name="AutomationExercise Full Suite" finished-at="2026-02-13T10:53:40 IST" duration-ms="159188">
+    <groups>
+    </groups>
+    <test started-at="2026-02-13T10:51:01 IST" name="Complete UI Tests" finished-at="2026-02-13T10:53:40 IST" duration-ms="159188">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:01 IST" name="setup" finished-at="2026-02-13T10:51:08 IST" duration-ms="7521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyApiTestingNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:08 IST" name="verifyApiTestingNavigation" description="Verify API Testing link navigation" finished-at="2026-02-13T10:51:14 IST" duration-ms="5437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApiTestingNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:14 IST" name="tearDown" finished-at="2026-02-13T10:51:14 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:14 IST" name="setup" finished-at="2026-02-13T10:51:21 IST" duration-ms="6745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartLinkNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:21 IST" name="verifyCartLinkNavigation" description="Verify Cart link navigation" finished-at="2026-02-13T10:51:23 IST" duration-ms="2803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartLinkNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:23 IST" name="tearDown" finished-at="2026-02-13T10:51:24 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:24 IST" name="setup" finished-at="2026-02-13T10:51:29 IST" duration-ms="5325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyContactUsNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:29 IST" name="verifyContactUsNavigation" description="Verify Contact Us link navigation" finished-at="2026-02-13T10:51:31 IST" duration-ms="2420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactUsNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:31 IST" name="tearDown" finished-at="2026-02-13T10:51:32 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:32 IST" name="setup" finished-at="2026-02-13T10:51:39 IST" duration-ms="7326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHeaderAndNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:39 IST" name="verifyHeaderAndNavigation" finished-at="2026-02-13T10:51:39 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderAndNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:39 IST" name="tearDown" finished-at="2026-02-13T10:51:39 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:39 IST" name="setup" finished-at="2026-02-13T10:51:49 IST" duration-ms="9344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomeLinkNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:49 IST" name="verifyHomeLinkNavigation" description="Verify Home link navigation" finished-at="2026-02-13T10:51:54 IST" duration-ms="4939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeLinkNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:54 IST" name="tearDown" finished-at="2026-02-13T10:51:54 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:51:54 IST" name="setup" finished-at="2026-02-13T10:52:03 IST" duration-ms="9083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageContent()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:03 IST" name="verifyHomePageContent" finished-at="2026-02-13T10:52:03 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageContent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:03 IST" name="tearDown" finished-at="2026-02-13T10:52:03 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:03 IST" name="setup" finished-at="2026-02-13T10:52:12 IST" duration-ms="9229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductsLinkNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:12 IST" name="verifyProductsLinkNavigation" description="Verify Products link navigation" finished-at="2026-02-13T10:52:23 IST" duration-ms="10401" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for tests.HomePageTest$$Lambda$636/0x000001d7ce236000@7e46d648 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\DEEPCO~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53808}, goog:processID: 16456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53808/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01ad8bf53cb16aadf7efe5f3eb57d2b8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for tests.HomePageTest$$Lambda$636/0x000001d7ce236000@7e46d648 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\DEEPCO~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53808}, goog:processID: 16456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53808/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01ad8bf53cb16aadf7efe5f3eb57d2b8
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at tests.HomePageTest.verifyProductsLinkNavigation(HomePageTest.java:70)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsLinkNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:23 IST" name="tearDown" finished-at="2026-02-13T10:52:23 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:23 IST" name="setup" finished-at="2026-02-13T10:52:28 IST" duration-ms="5087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyScrollTopAndBottom()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:28 IST" name="verifyScrollTopAndBottom" description="Verify scroll functionality from top to bottom and back to top" finished-at="2026-02-13T10:52:32 IST" duration-ms="4095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollTopAndBottom -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:32 IST" name="tearDown" finished-at="2026-02-13T10:52:33 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:33 IST" name="setup" finished-at="2026-02-13T10:52:38 IST" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySignupLoginNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:38 IST" name="verifySignupLoginNavigation" description="Verify Signup/Login link navigation" finished-at="2026-02-13T10:52:42 IST" duration-ms="3296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupLoginNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:42 IST" name="tearDown" finished-at="2026-02-13T10:52:42 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:42 IST" name="setup" finished-at="2026-02-13T10:52:51 IST" duration-ms="9144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySubscriptionFunctionality()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:51 IST" name="verifySubscriptionFunctionality" finished-at="2026-02-13T10:52:51 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubscriptionFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:51 IST" name="tearDown" finished-at="2026-02-13T10:52:52 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:52 IST" name="setup" finished-at="2026-02-13T10:52:58 IST" duration-ms="6435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTestCasesNavigation()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:52:58 IST" name="verifyTestCasesNavigation" description="Verify Test Cases link navigation" finished-at="2026-02-13T10:53:03 IST" duration-ms="4597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestCasesNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@1623b78d]" started-at="2026-02-13T10:53:03 IST" name="tearDown" finished-at="2026-02-13T10:53:03 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.SignupLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:03 IST" name="setup" finished-at="2026-02-13T10:53:12 IST" duration-ms="9389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:12 IST" name="verifyInvalidLogin" description="Verify login with invalid credentials" finished-at="2026-02-13T10:53:18 IST" duration-ms="5494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:18 IST" name="tearDown" finished-at="2026-02-13T10:53:18 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:18 IST" name="setup" finished-at="2026-02-13T10:53:24 IST" duration-ms="5625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySignupNavigation()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:24 IST" name="verifySignupNavigation" description="Verify New User Signup navigation" finished-at="2026-02-13T10:53:27 IST" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:27 IST" name="tearDown" finished-at="2026-02-13T10:53:27 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:27 IST" name="setup" finished-at="2026-02-13T10:53:34 IST" duration-ms="6463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUserSignup()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:34 IST" name="verifyUserSignup" description="Verify user signup form submission" finished-at="2026-02-13T10:53:39 IST" duration-ms="5880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserSignup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SignupLoginTest@4c583ecf]" started-at="2026-02-13T10:53:39 IST" name="tearDown" finished-at="2026-02-13T10:53:40 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SignupLoginTest -->
+    </test> <!-- Complete UI Tests -->
+  </suite> <!-- AutomationExercise Full Suite -->
+</testng-results>
